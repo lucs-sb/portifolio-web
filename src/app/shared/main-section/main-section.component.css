@@ -17,11 +17,11 @@ section {
             text-transform: uppercase;
             font-weight: 600;
             font-size: 16px;
-            color: #151717;
+            color: var(--span-text-color);
         }
     
         h1 {
-            background: linear-gradient(90deg, rgba(82,34,208,1) 35%, rgba(255,97,150,1) 100%);
+            background: linear-gradient(90deg, rgba(0,0,0,1) 35%, rgba(222,19,19,1) 100%);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
             display: inline-block;
